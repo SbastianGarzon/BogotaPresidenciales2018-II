@@ -34,12 +34,17 @@ Los datos incluyen los resultados **por candidato** de las 20 localidades de la 
 * [Usaquén](Localidades/Votaciones_Localidades/USAQUEN.csv)
 * [Usme](Localidades/Votaciones_Localidades/USME.csv)
 
-*Aclaraciones**
+**Aclaraciones**
 
 -No se incluyen datos de potencial de votantes ya que la registraduría no lo reporta en los documentos publicados. Una buena aproximación es usar los datos de potencial de las elecciones de senado 2018 que sí están disponibles. [Potencial votantes Senado 2018 Bogotá](https://github.com/SbastianGarzon/BogotaSen2018/blob/master/Bogota/Participacion_bogota.csv)
 
 -La registraduría no reporta en el preconteo los resultados a nivel de detalle por localidades por lo cual la única manera
 de acceder a esta información es mediante formatos E26 escaneados. Para que pueda verificar el origen de los datos en cada archivo (por localidades) encontrará al final el link que lo dirige al documento E26.
+
+# Otros recursos
+
+* [Elecciones Senado 2018 - Bogotá](https://github.com/SbastianGarzon/BogotaSen2018)
+* [Elecciones Presidenciales 2018 (1º vuelta) - Bogotá](https://github.com/SbastianGarzon/BogotaPresidenciales2018)
 
 # Licencia
 
